@@ -15,6 +15,7 @@
   - Support: 50.19%
 
 2.Average Hourly rate of Male Research Scientist
+
     Research Scientist for male : 114.4468907
 
 3.Attrition rate Vs Monthly income stats
