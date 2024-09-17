@@ -21,20 +21,20 @@
 3.Attrition rate Vs Monthly income stats
 Department                              Monthly_income            Attrition_rate
 Hardware :                                  26028.07027                     49.44%
-Human Resources:                      26058.44547                    49.86%
-Research & Development:          25796.07946                    51.21% 
-Sales:                                           26118.75346                    50.02%
+Human Resources:                             26058.44547                    49.86%
+Research & Development:                      25796.07946                    51.21% 
+Sales:                                        26118.75346                    50.02%
 Software:                                     26026.25396                    50.54%    
 Support:                                       26065.20193                    50.19%
 
 4.Average working years for each Department:
-Department        Age
-Hardware	20.67
-Human Resources	20.52
+Department               Age
+Hardware	              20.67
+Human Resources	        20.52
 Research & Development	20.25
-Sales	20.75
-Software	20.57
-Support	20.35
+Sales	                  20.75
+Software	              20.57
+Support               	20.35
 
 5.Job Role Vs Work life balance
 Developer:	2.51
